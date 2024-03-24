@@ -10,7 +10,7 @@
 </p>
 
 <h3>What I'm working on now</h3>
-Currently I'm working on one main projects:
+Currently I'm working on two main projects:
 
 - Veluria: Minecraft RPG Server
 - Valium: MTA:SA RPG Server
