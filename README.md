@@ -7,6 +7,7 @@
   <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20sharp&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/Lua-325ea8?style=flat-square&logo=lua%logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-055ef5?style=flat-square&logo=lua%logoColor=white"/>
 </p>
 
 <h3>What I'm working on now</h3>
