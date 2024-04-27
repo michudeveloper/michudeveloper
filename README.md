@@ -4,17 +4,12 @@
 <p>Welcome to my github page! </br> I'm Michał, I'm interested in programming!
 <h3>I like/know how to code in the following languages and use the following tools</h3>
 <p>
-  <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20sharp&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/Lua-325ea8?style=flat-square&logo=lua%logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-055ef5?style=flat-square&logo=lua%logoColor=white"/>
 </p>
 
 <h3>What I'm working on now</h3>
-Currently I'm working on two main projects:
-
-- My Game
-- MTA:SA RPG Server
+Currently I'm learning C# and TypeScript and work on private project 
 
 <h3>Contact</h3>
 <a href="https://discord.com/users/1166856040881598566">
