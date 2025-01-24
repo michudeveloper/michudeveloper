@@ -9,7 +9,7 @@
 </p>
 
 <h3>What I'm working on now</h3>
-Currently I'm learning C# and TypeScript and work on private project 
+Currently I'm learning C# and work on my MTA:SA project (Valium) 
 
 <h3>Contact</h3>
 <a href="https://discord.com/users/1166856040881598566">
